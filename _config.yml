@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "I am amazed at the diversity of this world, and I devoutly regard everything as a gift. I am grateful for the magic of life and the spirituality of all things, which brings unknown joy and joy to my life."
-sidebar-avatar: https://github.com/acnx.png # use absolute URL, seeing it's used in both `/` and `/about/`
+# sidebar-avatar: https://github.com/acnx.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
