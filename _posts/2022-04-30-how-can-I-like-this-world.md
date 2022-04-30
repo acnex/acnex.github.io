@@ -22,4 +22,4 @@ header-style: text
 生活，就是一地鸡毛。
 
 
-![01](/img/in-post/202204301620.jpg.png)
+![01](/img/in-post/202204301620.jpg)
