@@ -17,5 +17,7 @@ apple music 突然崩溃，还想从Spotify转apple music呢，这是打消我�
 
 吃饭的地方也可以堂食了，前段时间都是外卖，可得养养我的胃了。
 
+下午看了一会Java，然后登服务器部署了一个 gitea ，然后突然发现原来的 NextCloud 也解析到 gitea 上面了，改着改着，Apache崩了，晚点再说吧，头疼。。。
+
 加油吧～
 
